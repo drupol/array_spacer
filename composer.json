@@ -1,0 +1,19 @@
+{
+    "name": "drupol/array_spacer",
+    "description": "TODO",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pol Dellaiera",
+            "email": "pol.dellaiera@protonmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "drupol\\array_spacer\\": "src/"
+      }
+    }
+}
